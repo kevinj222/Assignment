@@ -31,7 +31,7 @@ public static void main(String[] args)
 	int q=sc.nextInt();
 	int p=y.get(q-1);
 	System.out.println(p);
-	
+	 
 
 	
 }
